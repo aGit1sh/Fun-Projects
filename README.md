@@ -1,1 +1,1 @@
-This is just a compilation of some of the fun programming projects I have created
+This is a compilation of some of the fun programming projects I have created
